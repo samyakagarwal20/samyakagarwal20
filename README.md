@@ -23,7 +23,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-samyakagarwal20.vercel.app/api?username=samyakagarwal20&show_icons=true&locale=en&theme=github_dark" alt="samyakagarwal20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyakagarwal20&starting_year=2023&theme=github-dark" alt="samyakagarwal20" /></p>
-<!-- https://streak-stats.demolab.com/?user=samyakagarwal20&starting_year=2023&theme=github-dark -->
+<!-- https://streak-stats.demolab.com/?user=samyakagarwal20&starting_year=2023&theme=github-dark 
+    https://github-readme-streak-stats.herokuapp.com/?user=samyakagarwal20&starting_year=2023&theme=github-dark
+-->
 
 <div style="display: flex; align-items: center;">
   <img align="left" src="https://github-readme-stats-samyakagarwal20.vercel.app/api/top-langs?username=samyakagarwal20&show_icons=true&locale=en&layout=compact&theme=dracula" alt="samyakagarwal20" style="margin-right: 10px;" />
