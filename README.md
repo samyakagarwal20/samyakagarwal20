@@ -22,8 +22,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-samyakagarwal20.vercel.app/api?username=samyakagarwal20&show_icons=true&locale=en&theme=github_dark" alt="samyakagarwal20" /></p>
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=samyakagarwal20&theme=github_dark&starting_year=2023)
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyakagarwal20&starting_year=2023&theme=github-dark" alt="samyakagarwal20" /></p>
-<!-- https://streak-stats.demolab.com/?user=samyakagarwal20&starting_year=2023&theme=github-dark 
+    https://streak-stats.demolab.com/?user=samyakagarwal20&starting_year=2023&theme=github-dark 
     https://github-readme-streak-stats.herokuapp.com/?user=samyakagarwal20&starting_year=2023&theme=github-dark
 -->
 
