@@ -24,4 +24,17 @@
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=samyakagarwal20&starting_year=2023&theme=github-dark" alt="samyakagarwal20" /></p>
 
-<p><img align="left" src="https://github-readme-stats-samyakagarwal20.vercel.app/api/top-langs?username=samyakagarwal20&show_icons=true&locale=en&layout=compact&theme=dracula" alt="samyakagarwal20" /></p>
+
+<div style="display: flex; align-items: center;">
+  <img align="left" src="https://github-readme-stats-samyakagarwal20.vercel.app/api/top-langs?username=samyakagarwal20&show_icons=true&locale=en&layout=compact&theme=dracula" alt="samyakagarwal20" style="margin-right: 10px;" />
+  <p>
+    <b>Encountering a glitch while fetching the stats? No worries! Give this a try: 💡</b>
+    <br>
+    <strong>Reload the Page:</strong> 🔄 Sometimes, a simple page reload can work wonders. Just click that refresh button and cross your fingers! 🤞
+  </p>
+</div>
+
+
+
+
+
