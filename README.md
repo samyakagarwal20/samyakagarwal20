@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DevOps and Configuration Management**
 
-- 💬 Ask me about **Java, Spring Boot, Angular, Python, Machine Learning**
+- 💬 Ask me about **Java, Spring Boot, Angular**
 
 - ⚡ Fun fact **I'm in for some aquatic fun!**
 
