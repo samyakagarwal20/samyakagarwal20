@@ -35,9 +35,9 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyakagarwal20&theme=dracula&layout=compact) -->
 ![Top Langs](https://github-readme-stats-samyakagarwal20.vercel.app/api/top-langs/?username=samyakagarwal20&theme=dracula&layout=compact)
 <p>
-    <b>Encountering a glitch while fetching the stats? No worries! Give this a try: 💡</b>
+    <b>Encountering a glitch while fetching the stats? No worries! Give this a try:</b>
     <br>
-    <strong>Reload the Page:</strong> 🔄 Sometimes, a simple page reload can work wonders. Just click that refresh button and cross your fingers! 🤞
+    <strong>💡 Reload the Page:</strong> 🔄 Sometimes, a simple page reload can work wonders. Just click that refresh button and cross your fingers! 🤞
 </p>
 
 
