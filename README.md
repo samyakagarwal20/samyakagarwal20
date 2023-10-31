@@ -23,8 +23,8 @@
 <!-- ![Samyak's GitHub stats](https://github-readme-stats.vercel.app/api?username=samyakagarwal20&theme=github_dark) -->
 ![Samyak's GitHub stats](https://github-readme-stats-samyakagarwal20.vercel.app/api?username=samyakagarwal20&theme=github_dark)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com/?user=samyakagarwal20&theme=github_dark&starting_year=2023) -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samyakagarwal20&starting_year=2023&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=samyakagarwal20&theme=github_dark&starting_year=2023)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samyakagarwal20&starting_year=2023&theme=github-dark) -->
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats-samyakagarwal20.vercel.app/api?username=samyakagarwal20&show_icons=true&locale=en&theme=github_dark" alt="samyakagarwal20" /></p>
